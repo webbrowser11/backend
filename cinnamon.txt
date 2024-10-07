@@ -15,3 +15,7 @@
 cinnamon dekstop
 USER: DUH ITS YOU
 admin: webbrowser11
+
+
+
+copyright 2024 Webbrowser11
