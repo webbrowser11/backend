@@ -12,6 +12,7 @@ class Main:
             print("here is a list of files you can open view now:")
             print("cinnamon")
             print("readme")
+            print("humnas")
             print("or enter a command:")
             print("banner - show the banner")
             print("welcome - shows the welcome message")
@@ -31,6 +32,9 @@ class Main:
                 urlfetch()
             elif user == "readme":
                 url = 'https://webbrowser11.github.io/backend/README.md'
+                urlfetch()
+            elif user == "humans":
+                url = 'https://webbrowser11.github.io/backend/humans.txt'
                 urlfetch()
     script()
 
